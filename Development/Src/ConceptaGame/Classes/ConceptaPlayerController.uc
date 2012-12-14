@@ -4,7 +4,7 @@
 class ConceptaPlayerController extends GamePlayerController
 	config(Game);
 
-/*state PlayerFlying
+state PlayerFlying
 {
 	
 		function PlayerMove(float DeltaTime)
@@ -13,7 +13,7 @@ class ConceptaPlayerController extends GamePlayerController
 
 		GetAxes(Rotation,X,Y,Z);
 
-		Acceleration = PlayerInput.aForward*X + PlayerInput.aStrafe*Y + PlayerInput.aUp*vect(0,0,1) - Velocity;
+		Acceleration = PlayerInput.aForward*X + PlayerInput.aStrafe*Y + PlayerInput.aUp*vect(0,0,1) - Velocity*200;
 		
 		UpdateRotation(DeltaTime);
 
@@ -26,7 +26,7 @@ class ConceptaPlayerController extends GamePlayerController
 			ProcessMove(DeltaTime, Acceleration, DCLICK_None, rot(0,0,0));
 		}
 	}
-}*/
+}
 	
 	
 	

@@ -49,8 +49,8 @@ defaultproperties
 {
 
 LandMovementState=PlayerFlying
-GroundSpeed=350
-AirSpeed=350
+GroundSpeed=280
+AirSpeed=280
 
 Begin Object Class=SkeletalMeshComponent Name=WPawnSkeletalMeshComponent
     SkeletalMesh=SkeletalMesh'ConceptaAssets.Mesh.TinyBall'
@@ -59,11 +59,3 @@ Begin Object Class=SkeletalMeshComponent Name=WPawnSkeletalMeshComponent
     //PhysicsAsset=PhysicsAsset'CH_AnimCorrupt.Mesh.SK_C H_Corrupt_Male_Physics'
     //AnimSets(0)=AnimSet'CH_AnimHuman.Anims.K_AnimHuman _BaseMale'
 End Object
-
-  Begin Object Class=DynamicSpriteComponent Name=YourSprite
-      Sprite=Texture2D'ConceptaAssets.Texture.Green_circle'
-    HiddenGame=false
-  End Object
-  Components.Add(YourSprite)
-//components.add(WPawnSkeletalMeshComponent)
-}
