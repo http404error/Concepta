@@ -21,11 +21,11 @@ To Do
 
 Contributors
 --------
-Ben Arvey
-Damian Kulp
-Jacob Payne
-Dylan Shumway
-Aundrey Kornolovich
-Ryan Alder
-Jackson Golletz
+Ben Arvey<br />
+Damian Kulp<br />
+Jacob Payne<br />
+Dylan Shumway<br />
+Aundrey Kornolovich<br />
+Ryan Alder<br />
+Jackson Golletz<br />
 (fix your name if I spelled it wrong!)
