@@ -180,14 +180,14 @@ UDKGame/Localization
 UDKGame/Logs
 UDKGame/Movies
 UDKGame/ProjectTemplates
-UDKGame/Config/udkinput.ini
-UDKGame/Config/udkeditor.ini
-UDKGame/Config/udkeditorkeybindings.ini
-UDKGame/Config/udkeditorusersettings.ini
-UDKGame/Config/udkengine.ini
-UDKGame/Config/udkgame.ini
-UDKGame/Config/udklightmass.ini
-UDKGame/Config/udksystemsettings.ini
-UDKGame/Config/udkui.ini
+UDKGame/Config/UDKInput.ini
+UDKGame/Config/UDKEditor.ini
+UDKGame/Config/UDKEditorKeyBindings.ini
+UDKGame/Config/UDKEditorUserSettings.ini
+UDKGame/Config/UDKEngine.ini
+UDKGame/Config/UDKGame.ini
+UDKGame/Config/UDKLightmass.ini
+UDKGame/Config/UDKSystemSettings.ini
+UDKGame/Config/UDKUI.ini
 
 
