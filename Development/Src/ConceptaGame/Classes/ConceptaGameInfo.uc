@@ -1,3 +1,6 @@
+/**
+ * Copyright 1998-2012 Epic Games, Inc. All Rights Reserved.
+ */
 class ConceptaGameInfo extends GameInfo;
 
 auto State PendingMatch
@@ -13,3 +16,5 @@ defaultproperties
 	DefaultPawnClass=class'ConceptaGame.ConceptaPawn'
 	bDelayedStart=false
 }
+
+

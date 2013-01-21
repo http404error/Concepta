@@ -13,7 +13,7 @@ state PlayerFlying
 
 		GetAxes(Rotation,X,Y,Z);
 
-		Acceleration = PlayerInput.aForward*X + PlayerInput.aStrafe*Y + PlayerInput.aUp*vect(0,0,1) - Velocity*300;
+		Acceleration = PlayerInput.aForward*X + PlayerInput.aStrafe*Y + PlayerInput.aUp*vect(0,0,1) - Velocity*200;
 		
 		UpdateRotation(DeltaTime);
 
