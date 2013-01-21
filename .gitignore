@@ -181,5 +181,13 @@ UDKGame/Logs
 UDKGame/Movies
 UDKGame/ProjectTemplates
 UDKGame/Config/udkinput.ini
+UDKGame/Config/udkeditor.ini
+UDKGame/Config/udkeditorkeybindings.ini
+UDKGame/Config/udkeditorusersettings.ini
+UDKGame/Config/udkengine.ini
+UDKGame/Config/udkgame.ini
+UDKGame/Config/udklightmass.ini
+UDKGame/Config/udksystemsettings.ini
+UDKGame/Config/udkui.ini
 
 
